@@ -12,7 +12,7 @@ I've developed two interactive Shiny applications that showcase different aspect
 
 Explore the behavior of Maximum Likelihood Estimation (MLE) convergence in various statistical scenarios. Visualize convergence trajectories, parameter estimates, and related statistics. Dive into different models and observe how MLE performs in different settings.
 
-Access the [MLE Convergence Application](https://johngab7.github.io/MLE_convergence_in_R/) and analyze the convergence patterns for your specific use case.
+Access the [MLE Convergence Application](https://johngab7.shinyapps.io/mle_convergence_in_r/) and analyze the convergence patterns for your specific use case.
 
 ### 2. Monte Carlo GMM Estimation Application 🔍
 
@@ -24,5 +24,5 @@ Feel free to interact with the visualizations in both applications and analyze t
 
 ---
 
-[![GitHub Pages Status for MLE Convergence](https://img.shields.io/github/deployments/johngab7/MLE_convergence_in_R/github-pages?label=GitHub%20Pages%20MLE&style=flat-square)](https://johngab7.github.io/MLE_convergence_in_R/)
+[![GitHub Pages Status for MLE Convergence](https://img.shields.io/github/deployments/johngab7/MLE_convergence_in_R/github-pages?label=GitHub%20Pages%20MLE&style=flat-square)](https://johngab7.shinyapps.io/mle_convergence_in_r/)
 [![GitHub Pages Status for GMM Estimation](https://img.shields.io/github/deployments/johngab7/MLE_convergence_in_R/github-pages?label=GitHub%20Pages%20GMM&style=flat-square)](https://johngab7.shinyapps.io/monte_carlo_for_gmm_estimation/)

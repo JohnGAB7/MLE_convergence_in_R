@@ -1,6 +1,4 @@
-# MLE Convergence in R
-
-Welcome to the MLE Convergence in R project! 📊
+Welcome to my shiny lab! 📊
 
 ## Overview
 

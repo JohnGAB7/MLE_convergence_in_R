@@ -16,4 +16,5 @@ Feel free to interact with the visualizations and analyze the convergence behavi
 
 ---
 
-[![GitHub Pages Status](https://img.shields.io/github/deployments/johngab7/MLE_convergence_in_R/github-pages?label=GitHub%20Pages&style=flat-square)](https://johngab7.github.io/MLE_convergence_in_R/)
+[![GitHub Pages Status 1](https://img.shields.io/github/deployments/johngab7/MLE_convergence_in_R/github-pages?label=GitHub%20Pages&style=flat-square)](https://johngab7.github.io/MLE_convergence_in_R/)
+[![GitHub Pages Status 2](https://img.shields.io/github/deployments/johngab7/MLE_convergence_in_R/github-pages?label=GitHub%20Pages&style=flat-square)](https://johngab7.shinyapps.io/monte_carlo_for_gmm_estimation/)
